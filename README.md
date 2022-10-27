@@ -13,7 +13,7 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/bfukumori/rocketshoes?style=social">
   </a>
 
-  <a href="https://fluffy-halva-2016ac.netlify.app/">
+  <a href="https://rocketshoes-olive.vercel.app/">
     <img alt="rocketshoes" src="https://img.shields.io/badge/rocketshoes-%237159c1?style=flat&logo=ghost">
     </a>
  
